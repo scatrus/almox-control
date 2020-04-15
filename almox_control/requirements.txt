@@ -1,0 +1,6 @@
+asgiref
+Django~=3.0.5
+pytz
+sqlparse
+django-localflavor
+localflavor~=1.8
